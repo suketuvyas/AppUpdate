@@ -1,0 +1,7 @@
+{
+  "name": "AutoUpdateSample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

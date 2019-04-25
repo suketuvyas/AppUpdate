@@ -1,0 +1,33 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "AutoUpdateSample"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "AutoUpdateSample"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "AutoUpdateSample"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "AutoUpdateSample"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "AutoUpdateSample"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "AutoUpdateSample"
+    },
+    "phonegap-plugin-contentsync": {
+      "PACKAGE_NAME": "AutoUpdateSample"
+    }
+  },
+  "dependent_plugins": {}
+}
